@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Elvis Konjoh Selabi — Smart Contract Verification, Formal Methods, Blockchain Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <!-- State machine motif (EDAM / DAFSM) -->
+  <g transform="translate(840 70)" fill="none" stroke-width="2">
+    <path d="M70 80 C 120 20, 190 20, 240 80" stroke="#5eead4" stroke-opacity="0.55"/>
+    <path d="M240 100 C 190 160, 120 160, 70 100" stroke="#818cf8" stroke-opacity="0.55"/>
+    <path d="M260 110 L 300 150" stroke="#818cf8" stroke-opacity="0.45"/>
+    <path d="M40 90 L 0 90" stroke="#5eead4" stroke-opacity="0.45"/>
+    <circle cx="55" cy="90" r="22" stroke="#5eead4" fill="#0b1020"/>
+    <circle cx="255" cy="90" r="22" stroke="#818cf8" fill="#0b1020"/>
+    <circle cx="315" cy="165" r="18" stroke="#818cf8" fill="#0b1020"/>
+    <circle cx="315" cy="165" r="12" stroke="#818cf8" fill="none"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#cbd5e1" stroke="none" text-anchor="middle">
+      <text x="55" y="95">q0</text>
+      <text x="255" y="95">q1</text>
+      <text x="315" y="170">q2</text>
+      <text x="155" y="22" fill="#5eead4">deposit(v) [v &gt; 0]</text>
+      <text x="155" y="165" fill="#a5b4fc">withdraw(v) [v ≤ bal]</text>
+    </g>
+  </g>
+
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="104" font-size="46" font-weight="700" fill="#f8fafc">Elvis Konjoh Selabi</text>
+    <rect x="64" y="124" width="88" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="166" font-size="22" fill="#cbd5e1">Smart Contract Verification · Formal Methods</text>
+    <text x="64" y="198" font-size="22" fill="#cbd5e1">Full-Stack &amp; Blockchain Engineering · PhD</text>
+    <text x="64" y="244" font-size="16" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">spec → verify → generate → test  ·  L'Aquila, Italy</text>
+  </g>
+</svg>
