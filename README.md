@@ -118,7 +118,7 @@ flowchart LR
 - 🏆 **Best Artefact Award** + EAPLS *Available* and *Reusable* badges — COORDINATION 2024
 - 🥈 **Second Prize**, IOTA Foundation Hackathon — Move smart contract DApp (2020)
 - 🎤 **Invited speaker**, Ethereum Zurich 2025 · talk at **DTU** Copenhagen (2024)
-- 🧑‍⚖️ **Artifact Evaluation Committee**, FM 2026 (Tokyo) · **Program Committee**, COMPSAC Mentorium 2025 (Toronto)
+- 🧑‍⚖️ **Artifact Evaluation Committee**, [FM 2026](https://conf.researchr.org/track/fm-2026/fm-2026-artifact-evaluation) (Tokyo) · **Program Committee**, COMPSAC Mentorium 2025 (Toronto)
 - 🎓 Ph.D. scholarship, GSSI (2022–2026) · Master scholarship & best student award, Zhejiang Provincial Government (2016–2017)
 
 <details>
